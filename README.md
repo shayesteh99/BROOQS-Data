@@ -1,5 +1,5 @@
 # BROOQS-Data
-All data analyzed in the paper "BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry". We analyzed three simulated datasets and two biological datasets.
+All data analyzed in the paper "BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry". We analyzed three simulated datasets:
 
 ## 1) Fixed-ILS dataset (Wilson and Warnow 2026):
 The original dataset is published by [Wilson and Warnow 2026](https://www.biorxiv.org/content/10.64898/2026.02.01.703143v1), and is available [here](https://databank.illinois.edu/datasets/IDB-6892704). See the [Fixed-ILS dataset README](fixed-ILS-dataset/README.md) for a description of the dataset and files.
