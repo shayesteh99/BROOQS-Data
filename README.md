@@ -8,4 +8,4 @@ The original dataset is published by [Wilson and Warnow 2026](https://www.biorxi
 The original dataset is published by [Dai et al. 2026](https://www.biorxiv.org/content/10.1101/2025.11.05.686850v3), and is available [here](https://datadryad.org/dataset/doi:10.5061/dryad.cjsxksnnp). See the [Varying-ILS dataset README](varying-ILS-dataset/README.md) for a description of the dataset and files.
 
 ## 3) Varying-ILS+GTEE dataset (Kalbow et al. 2026): 
-The original dataset is published by [Kalbow et al. 2026](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v4), and is available [here](https://datadryad.org/dataset/doi:10.5061/dryad.h44j0zq0b). See []() for a detailed description of each file in this directory.
+The original dataset is published by [Kalbow et al. 2026](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v4), and is available [here](https://datadryad.org/dataset/doi:10.5061/dryad.h44j0zq0b). See the [Varying-ILS_GTEE dataset README](varying-ILS+GTEE-dataset/README.md) for a description of the dataset and files.
