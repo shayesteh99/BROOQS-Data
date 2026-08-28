@@ -1,4 +1,4 @@
-# Inphynet Dataset
+# Varying-ILS+GTEE Dataset
 
 This dataset is organized as:
 
