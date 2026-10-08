@@ -14,7 +14,7 @@ brooqs -i [GENETREE_FILE] -t [TOB_FILE] -o [OUTPUT_FILE] > [LOG_FILE]
 ```
 
 ### NANUQ+
-We wrote the following R script for NANUQ+ (see []). We then run the following command to run this script:
+We wrote the following R script for NANUQ+ (see [run_nanuq.r](Scripts/run_nanuq.r)). We then run the following command to run this script:
 ```
 Rscript run_nanuq.R [GENETREE_FILE] [TOB_FILE] [OUTPUT_FILE] 2> [LOG_FILE]
 ```
