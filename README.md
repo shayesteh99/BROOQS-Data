@@ -9,3 +9,6 @@ The original dataset is published by [Dai et al. 2026](https://www.biorxiv.org/c
 
 ## 3) Varying-ILS+GTEE dataset (Kalbow et al. 2026): 
 The original dataset is published by [Kalbow et al. 2026](https://www.biorxiv.org/content/10.1101/2025.05.05.652278v4), and is available [here](https://datadryad.org/dataset/doi:10.5061/dryad.h44j0zq0b). See the [Varying-ILS_GTEE dataset README](varying-ILS+GTEE-dataset/README.md) for a description of the dataset and files.
+
+
+See [commands](commands.md) for the commands used to run all methods in this dataset.
