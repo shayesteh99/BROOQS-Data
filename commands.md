@@ -47,7 +47,7 @@ camus -n 1 -o [OUTPUT_DIR] [ASTRAL_TREE_FILE] [GENE_TREE_FILE] &> [LOG_FILE]
 
 ### SQUIRREL
 
-We wrote a python script to run SQUIRREL (see ). We then run the script using the following command:
+We wrote a python script to run SQUIRREL (see [run_squirrel.py](Scripts/run_squirrel.py)). We then run the script using the following command:
 
 ```
 python run_squirrel.py -i [MSA_DIR] -f [MSA_FILE] -o [OUTPUT_FILE] &> [LOG_FILE]
